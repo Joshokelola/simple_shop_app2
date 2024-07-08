@@ -33,9 +33,9 @@ class _ProductPageState extends State<ProductPage> {
             itemCount: state.product.length,
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: 2,
-                childAspectRatio: 0.68,
-                crossAxisSpacing: 5,
-                mainAxisSpacing: 5),
+                childAspectRatio: 0.6,
+                crossAxisSpacing: 10,
+                mainAxisSpacing: 10),
             itemBuilder: (context, index) {
               return Card(
                 child: Column(
