@@ -9,7 +9,7 @@ Here are some screenshots of the application:
 <img src="./screenshots/screenshot_2.png" width="240">
 
 ## Test App Online
-[https://https://appetize.io/app/b_zjnmpfwatm3coyzjtwiiz7veci]
+[https://appetize.io/app/b_zjnmpfwatm3coyzjtwiiz7veci]
 
 ## Getting Started
 1. Follow the [Flutter guide](https://docs.flutter.dev/get-started/install) to
