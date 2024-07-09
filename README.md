@@ -1,8 +1,6 @@
 
 # simple_shop_app
 
-NOTE: For some strange reason the app has a network issue when run on mobile and web but it works fine when on Linux.
-
 A Simplified shopping application that displays a list of products from the Timbu Api.
 
 Here are some screenshots of the application:
@@ -11,7 +9,7 @@ Here are some screenshots of the application:
 <img src="./screenshots/screenshot_2.png" width="240">
 
 ## Test App Online
-[https://appetize.io/app/b_2f6qzutvyrl526tjp5g6fahetu]
+[https://https://appetize.io/app/b_zjnmpfwatm3coyzjtwiiz7veci]
 
 ## Getting Started
 1. Follow the [Flutter guide](https://docs.flutter.dev/get-started/install) to
